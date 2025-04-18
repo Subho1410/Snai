@@ -1,0 +1,97 @@
+
+{
+  "data": [
+    {
+      "id": "Provider-1/DeepSeek-R1",
+      "object": "model",
+      "owned_by": "DevsDoCode",
+      "owner_cost_per_million_tokens": 2,
+      "user_cost_per_million_tokens": 0
+    },
+    {
+      "id": "Provider-2/gpt-4o",
+      "object": "model",
+      "owned_by": "DevsDoCode",
+      "owner_cost_per_million_tokens": 5,
+      "user_cost_per_million_tokens": 0
+    },
+    {
+      "id": "Provider-3/DeepSeek-R1",
+      "object": "model",
+      "owned_by": "DevsDoCode",
+      "owner_cost_per_million_tokens": 2,
+      "user_cost_per_million_tokens": 0
+    },
+    {
+      "id": "Provider-3/o3-mini",
+      "object": "model",
+      "owned_by": "DevsDoCode",
+      "owner_cost_per_million_tokens": 4.4,
+      "user_cost_per_million_tokens": 0
+    },
+    {
+      "id": "Provider-3/flux-1.1-ultra",
+      "object": "model",
+      "owned_by": "DevsDoCode",
+      "owner_cost_per_million_tokens": 8,
+      "user_cost_per_million_tokens": 0
+    },
+    {
+      "id": "Provider-3/gpt-4.1-mini",
+      "object": "model",
+      "owned_by": "DevsDoCode",
+      "owner_cost_per_million_tokens": 1.6,
+      "user_cost_per_million_tokens": 0
+    },
+    {
+      "id": "Provider-5/gpt-4o-mini",
+      "object": "model",
+      "owned_by": "DevsDoCode",
+      "owner_cost_per_million_tokens": 0.6,
+      "user_cost_per_million_tokens": 0
+    },
+    {
+      "id": "Provider-5/gpt-4o",
+      "object": "model",
+      "owned_by": "DevsDoCode",
+      "owner_cost_per_million_tokens": 10,
+      "user_cost_per_million_tokens": 0
+    },
+    {
+      "id": "Provider-5/claude-3.7-sonnet",
+      "object": "model",
+      "owned_by": "DevsDoCode",
+      "owner_cost_per_million_tokens": 15,
+      "user_cost_per_million_tokens": 0
+    },
+    {
+      "id": "Provider-7/gpt-4.5-preview",
+      "object": "model",
+      "owned_by": "DevsDoCode",
+      "owner_cost_per_million_tokens": 10,
+      "user_cost_per_million_tokens": 0
+    },
+    {
+      "id": "Provider-7/claude-3.5-sonnet",
+      "object": "model",
+      "owned_by": "DevsDoCode",
+      "owner_cost_per_million_tokens": 8,
+      "user_cost_per_million_tokens": 0
+    },
+    {
+      "id": "Provider-7/grok-3",
+      "object": "model",
+      "owned_by": "DevsDoCode",
+      "owner_cost_per_million_tokens": 8,
+      "user_cost_per_million_tokens": 0
+    },
+    {
+      "id": "Provider-9/gpt-4.1",
+      "object": "model",
+      "owned_by": "DevsDoCode",
+      "owner_cost_per_million_tokens": 2,
+      "user_cost_per_million_tokens": 0
+    }
+  ],
+  "object": "list"
+}
